@@ -1,0 +1,8 @@
+{
+  "appId": "org.sgvp.utsavsampark",
+  "appName": "સંપર્ક સેવા",
+  "webDir": "app",
+  "android": {
+    "backgroundColor": "#8a1c1c"
+  }
+}

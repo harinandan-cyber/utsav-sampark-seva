@@ -1,0 +1,17 @@
+{
+  "name": "ઉત્સવ સંપર્ક સેવા",
+  "short_name": "સંપર્ક સેવા",
+  "description": "ઉત્સવ સંપર્ક સેવા વિભાગના સ્વયંસેવકો માટેની એપ",
+  "lang": "gu",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf6f0",
+  "theme_color": "#8a1c1c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
